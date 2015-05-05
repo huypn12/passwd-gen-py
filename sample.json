@@ -1,0 +1,21 @@
+## request message
+
+{
+    "request_mesg": {
+        "from": "worker1",
+        "to": "master",
+        "body": "new_chunk"
+    }
+}
+
+## response credential batch 
+{
+    "response_batch": [
+        "creds": {
+            "protocol": "",
+            "ip_addr": "",
+            "port": "",
+            "SSL": ""
+        }
+    ]
+}

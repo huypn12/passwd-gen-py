@@ -1,0 +1,15 @@
+{
+    "PP": {
+        "DATE_0": "${DD}${MM}${YYYY}",
+        "DATE_1": "${MM}${DD}${YYYY}",
+        "NAME_0": "${FIRST}${LAST}",
+        "NAME_1": "${FIRST}${MIDDLE}${LAST}"
+    },
+    "P": [
+        ["P1", "%{NAME_0}%{DATE_0}"],
+        ["P2", "#{1234}#{___}%{DATE_0}"],
+        ["P3", "%{DATE_0}%{NAME_0}"],
+        ["P4", "%{NAME_1}%{DATE_0}%{DATE_1}"],
+        ["P5", "%{NAME_0}"]
+    ]
+}

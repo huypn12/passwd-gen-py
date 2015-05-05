@@ -1,0 +1,21 @@
+{
+    "DICT": [
+        ["FIRST",["latk", "la"]],
+        ["LAST",["hoang", "h"]],
+        ["MIDDLE",["lat", "dalat"]],
+        ["DD",["2", "02"]],
+        ["MM",["10", "07"]],
+        ["YYYY",["1982", "82"]],
+        ["MOBILE",["01444"]],
+        ["WORK",["6442"]]
+    ],
+    "ACCOUNT":  {
+        "protocol": "smtp",
+        "ip_addr": "192.168.50.97",
+        "port": 465,
+        "SSL": "True",
+        "username": "hoangla",
+        "password": ""
+  }
+}
+

@@ -1,0 +1,21 @@
+{
+    "DICT": [
+        ["FIRST",["Lan", "lan", "L"]],
+        ["LAST",["ho", "Ho", "h"]],
+        ["MIDDLE",["minh", "m", "Minh"]],
+        ["DD",["2", "02"]],
+        ["MM",["10", "07"]],
+        ["YYYY",["1977", "77"]],
+        ["MOBILE",["01444"]],
+        ["WORK",["6442"]]
+    ],
+    "ACCOUNT":  {
+        "protocol": "POP",
+        "ip_addr": "pop.googlemail.com",
+        "port": 995,
+        "SSL": "True",
+        "username": "lanhm7777",
+        "password": ""
+  }
+}
+
